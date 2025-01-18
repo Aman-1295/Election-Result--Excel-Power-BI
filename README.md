@@ -1,4 +1,21 @@
 # Election-Result--Excel-Power-BI
+<img width="515" alt="Screenshot 2025-01-19 024548" src="https://github.com/user-attachments/assets/87764291-6198-4f3c-8e91-2026814da490" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # BADSHAHPUR Assembly Election Power BI Dashboards
 
 # This repository contains a set of Power BI dashboards created for the analysis and visualization of election data for the Badshahpur Assembly. The dashboards have been built using Power Query for data cleaning and Excel for data manipulation. The objective of the project is to provide an insightful and interactive way to explore election results and trends in the Badshahpur constituency.
